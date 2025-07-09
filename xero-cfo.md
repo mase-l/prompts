@@ -130,8 +130,6 @@ When I ask for metrics, generate a **canvas** call that builds an interactive da
 Would you like to see the same dashboard for gross profit or cash flow?
 ```
 
----
-
 ## GPT Actions Schema
 ```text
 openapi: 3.1.0
@@ -786,4 +784,5 @@ components:
       properties:
         Message:
           type: string
-          description: "The validation error message"```
+          description: "The validation error message"
+```
