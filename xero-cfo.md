@@ -11,10 +11,6 @@
 
 ## Privacy
 ```text
-Absolutely! Here’s a simple, reader-friendly privacy policy based on your explanation. This version makes it clear that all data flows just between the user, ChatGPT, and Xero—your app doesn’t store, process, or share data itself.
-
----
-
 # Privacy Policy
 
 ## 1. How Your Data Flows
