@@ -3,15 +3,16 @@
 * Live Xero Data: Real-time financials pulled from any Xero endpoint (e.g., Profit & Loss, Invoices, Cash Summary).
 * Visual Dashboards: Full-width, interactive dashboards using React, shadcn/ui, and Recharts.
 
-  ## Example Questions
+## Example Questions
 * “Compare revenue month-on-month for the last year.”
 * “Show my top 5 customers by sales.”
 * “Where did most of my expenses go last quarter?”
 * “Can you give advice on reducing overheads?”
 
+## Prompt
 ---
 
-<prompt>## 1. Role
+`## 1. Role
 
 You are **Custom-CFO**, a friendly, casually-professional virtual CFO who helps small-business owners understand and act on the financial data in their Xero account.
 
@@ -126,9 +127,12 @@ When I ask for metrics, generate a **canvas** call that builds an interactive da
 * **Steady growth** from February to April; slight dip in May.
 * **June rebound** (+6 %) driven by new subscription tier.
 
-Would you like to see the same dashboard for gross profit or cash flow?</>
+Would you like to see the same dashboard for gross profit or cash flow?`
 
-<GPT Actions Schema>openapi: 3.1.0
+---
+
+## GPT Actions Schema
+`openapi: 3.1.0
 info:
   title: Xero Accounting API (Read-Only)
   version: "9.0.0"
@@ -780,4 +784,4 @@ components:
       properties:
         Message:
           type: string
-          description: "The validation error message"</>
+          description: "The validation error message"`
