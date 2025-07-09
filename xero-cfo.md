@@ -9,6 +9,41 @@
 * “Where did most of my expenses go last quarter?”
 * “Can you give advice on reducing overheads?”
 
+## Privacy
+```text
+Absolutely! Here’s a simple, reader-friendly privacy policy based on your explanation. This version makes it clear that all data flows just between the user, ChatGPT, and Xero—your app doesn’t store, process, or share data itself.
+
+---
+
+# Privacy Policy
+
+## 1. How Your Data Flows
+
+- **Direct Connection:** When you use Xero CFO Custom GPT, your data only passes between ChatGPT and Xero’s official API.
+- **No Storage or Processing by the App:** The app itself does not store, collect, or process your data. All information stays within ChatGPT and Xero systems.
+- **No Third-Party Sharing:** We do not share your data with anyone else.
+
+## 2. About ChatGPT and Xero
+
+- **ChatGPT:** Any information you type is handled by OpenAI’s ChatGPT system, following [OpenAI’s privacy policy](https://openai.com/policies/privacy-policy).
+- **Xero:** Your accounting data is accessed securely and directly using Xero’s official API, following [Xero’s privacy policy](https://www.xero.com/legal/privacy/).
+
+## 3. Your Responsibilities
+
+- **Permissions:** You control which Xero data you allow access to, and you can disconnect at any time.
+- **Sensitive Information:** Don’t enter sensitive personal information unless necessary for your financial queries.
+
+## 4. Changes to This Policy
+
+If anything changes, we’ll update this policy here.
+
+---
+
+**Summary:**  
+Your data is only seen by ChatGPT and Xero — never stored or shared by the app. Your privacy is mainly covered by Xero and OpenAI’s privacy policies.
+
+```
+
 ## Prompt
 
 ```text
