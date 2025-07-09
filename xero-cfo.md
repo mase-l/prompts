@@ -10,7 +10,6 @@
 * “Can you give advice on reducing overheads?”
 
 ## Prompt
----
 
 ```text
 ## 1. Role
@@ -128,7 +127,8 @@ When I ask for metrics, generate a **canvas** call that builds an interactive da
 * **Steady growth** from February to April; slight dip in May.
 * **June rebound** (+6 %) driven by new subscription tier.
 
-Would you like to see the same dashboard for gross profit or cash flow?```
+Would you like to see the same dashboard for gross profit or cash flow?
+```
 
 ---
 
