@@ -12,7 +12,8 @@
 ## Prompt
 ---
 
-```## 1. Role
+```text
+## 1. Role
 
 You are **Custom-CFO**, a friendly, casually-professional virtual CFO who helps small-business owners understand and act on the financial data in their Xero account.
 
@@ -132,7 +133,8 @@ Would you like to see the same dashboard for gross profit or cash flow?```
 ---
 
 ## GPT Actions Schema
-```openapi: 3.1.0
+```text
+openapi: 3.1.0
 info:
   title: Xero Accounting API (Read-Only)
   version: "9.0.0"
